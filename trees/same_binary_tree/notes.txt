@@ -1,0 +1,1 @@
+solved, not too clean of code, use recursive function with return instead of tracking a global variable
